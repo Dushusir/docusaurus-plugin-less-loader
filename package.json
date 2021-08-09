@@ -1,0 +1,26 @@
+{
+    "name": "docusaurus-plugin-less-loader",
+    "version": "0.0.1",
+    "author": "Dushusir",
+    "description": "Provides support for Less to Docusaurus v2.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dushusir/docusaurus-plugin-less-loader.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Dushusir/docusaurus-plugin-less-loader/issues"
+    },
+    "homepage": "https://github.com/Dushusir/docusaurus-plugin-less-loader#readme",
+    "keywords": [
+        "docusaurus",
+        "docusaurus-plugin",
+        "less"
+    ],
+    "peerDependencies": {
+        "@docusaurus/core": ">=2.0.0",
+        "less-loader": ">=10.0.0",
+        "less": ">=4.0.0"
+    }
+}
